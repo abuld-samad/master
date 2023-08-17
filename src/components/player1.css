@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    color:blue
+}
+
+.rows{
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.board{
+    margin: auto;
+}
